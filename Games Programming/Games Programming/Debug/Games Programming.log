@@ -1,0 +1,25 @@
+﻿Build started 15/04/2014 19:39:08.
+     1>Project "C:\Users\Mathew\Desktop\Games Programming\Games Programming\Games Programming.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Id3dx9.lib /Id3d9.lib /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mathew\Desktop\Games Programming\Debug\Games Programming.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib winmm.lib DXUTopt.lib dxerr.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Mathew\Desktop\Games Programming\Debug\Games Programming.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mathew\Desktop\Games Programming\Debug\Games Programming.lib" /MACHINE:X86 Debug\GameResources.res
+         Debug\cPlayer.obj
+         Debug\cBalloon.obj
+         Debug\cD3DManager.obj
+         Debug\cD3DXFont.obj
+         Debug\cD3DXSpriteMgr.obj
+         Debug\cD3DXTexture.obj
+         Debug\cExplosion.obj
+         Debug\cSprite.obj
+         Debug\cXAudio.obj
+         Debug\main.obj
+         DXUT.lib
+         DXUTOpt.lib
+         Games Programming.vcxproj -> C:\Users\Mathew\Desktop\Games Programming\Debug\Games Programming.exe
+     1>Done Building Project "C:\Users\Mathew\Desktop\Games Programming\Games Programming\Games Programming.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.29
